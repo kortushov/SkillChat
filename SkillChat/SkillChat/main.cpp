@@ -212,5 +212,5 @@ int main()
 			command.clear();
 		}
 	}
+	return 0;
 }
-
