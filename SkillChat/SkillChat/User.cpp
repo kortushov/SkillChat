@@ -47,7 +47,7 @@ void User::DisplayUserName() const
 
 void User::DisplayUserLogin() const
 {
-	cout << _login << endl;
+	cout << _login << ", ";
 }
 
 void User::setPassword(const string& password)
